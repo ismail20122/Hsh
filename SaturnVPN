@@ -1,0 +1,8 @@
+# SaturnVPN AU
+vless://UUID@AU_IP:443?encryption=none&security=reality&pbk=PUBLIC_KEY&sid=3f&fp=chrome&type=tcp&sni=www.cloudflare.com#AU
+
+# SaturnVPN US
+vless://UUID@US_IP:443?encryption=none&security=reality&pbk=PUBLIC_KEY&sid=3f&fp=chrome&type=tcp&sni=www.cloudflare.com#US
+
+# SaturnVPN EU
+vless://UUID@EU_IP:443?encryption=none&security=reality&pbk=PUBLIC_KEY&sid=3f&fp=chrome&type=tcp&sni=www.cloudflare.com#EU
